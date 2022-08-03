@@ -7,11 +7,6 @@ body {
   font-family: Roboto, sans-serif;
 }
 
-.header {
-  display: flex;
-  flex-direction: column;
-  align-content: space-between;
-}
 
 img {
   width: 600px;
@@ -32,11 +27,6 @@ button {
   background: #eee;
 }
 
-.footer {
-  display: flex;
-  flex-direction: column;
-  align-content: space-between;
-}
 
 input {
   border: 1px solid #ddd;
