@@ -41,6 +41,11 @@ body {
   flex-shrink: 0;
 }
 
+.header {
+display: flex;
+  flex-direction: column;
+}
+
 .close-button {
   background: #eee;
   border-radius: 50%;
