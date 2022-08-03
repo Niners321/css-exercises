@@ -8,6 +8,11 @@ body {
   height: 72px;
   background: darkmagenta;
   color: white;
+  font-size: 32px;
+  font-weight: 900;
+  padding: 16px;
+  display: flex;
+  align-content: center;
 }
 
 .footer {
@@ -19,6 +24,11 @@ body {
 .sidebar {
   width: 300px;
   background: royalblue;
+}
+
+a {
+  text-decoration: none;
+  color: white;
 }
 
 .card {
