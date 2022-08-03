@@ -7,6 +7,11 @@ body {
   font-family: Roboto, sans-serif;
 }
 
+.header {
+  display: flex;
+  flex-direction: column;
+}
+
 img {
   width: 600px;
 }
@@ -34,7 +39,4 @@ input {
   margin-bottom: 16px;
 }
 
-.footer {
-display: flex;
-  flex-direction: column;
-}
+
