@@ -9,7 +9,6 @@ body {
 
 .header {
   display: flex;
-  align-content: space-between;
 }
 
 img {
@@ -31,6 +30,9 @@ button {
   background: #eee;
 }
 
+.footer {
+  display: flex;
+}
 
 input {
   border: 1px solid #ddd;
