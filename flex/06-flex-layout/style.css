@@ -15,6 +15,10 @@ body {
 display: flex;
 }
 
+.right-links {
+display: flex;
+}
+
 img {
   width: 600px;
 }
